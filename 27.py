@@ -1,0 +1,11 @@
+import random as rd
+rd2=rd.randint(10**(2-1),10**2-1)
+print(rd2)
+rd4=rd.randint(10**(4-1),10**4-1)
+print(rd4)
+rd6=rd.randint(10**(6-1),10**6-1)
+print(rd6)
+rd8=rd.randint(10**(8-1),10**8-1)
+print(rd8)
+rd20=rd.randint(10**(20-1),10**20-1)
+print(rd20)
